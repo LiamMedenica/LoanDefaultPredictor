@@ -1,2 +1,13 @@
 trained_model.pkl
 venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+*.egg-info/
+dist/
+build/
+*.sqlite3
